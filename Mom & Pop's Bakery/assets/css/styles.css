@@ -1,0 +1,90 @@
+body {
+  font-family: Arial, Helvetice, sans-serif;
+}
+
+#logo {
+  max-height: 42px;
+  margin-right: 10px;
+  margin-top: -3px;
+  display: inline-block;
+}
+
+#promo {
+  text-align: center;
+  padding: 40px;
+  background: url("../../assets/img/background.jpg");
+  background-size: cover;
+}
+
+@media (min-width: 768px) {
+  #promo {
+    padding: 20px;
+  }
+}
+
+#promo .py-5 {
+  border-radius: 20px;
+  padding: 40px;
+  background-color: rgba(255,255,255,0.75);
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+  #promo .py-5 {
+    padding: 20px;
+  }
+}
+
+.dark-section {
+  background-color: #eff7fb;
+}
+
+.site-section {
+  padding: 50px 0 60px;
+  text-align: center;
+}
+
+.site-section h1 {
+  font-weight: normal;
+  margin-bottom: 30px;
+  margin-top: 60px;
+}
+
+#welcome p {
+  max-width: 800px;
+  font-size: 20px;
+  margin: 0 auto;
+  color: #666;
+}
+
+#why .item {
+  padding-top: 16px;
+}
+
+#why .item i {
+  font-size: 42px;
+  color: #f96390;
+}
+
+#why .item h2 {
+  font-weight: normal;
+  margin-top: 13px;
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+#why .item p {
+  color: #6d7275;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+  background-color: #ffff8f;
+  border-color: transparent;
+}
+
+.fs-4 {
+  font-size: calc(1.275rem + .3vw)!important;
+  width: auto;
+}
+
