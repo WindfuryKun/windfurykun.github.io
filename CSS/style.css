@@ -1,4 +1,14 @@
-#touxiang{
+#touxiang {
+    width: 150px;
+    height: 150px;
+}
+
+#WeChat_QR {
+    width: 150px;
+    height: 150px;
+}
+
+#QQ_QR {
     width: 150px;
     height: 150px;
 }
