@@ -1,6 +1,6 @@
 body {
 	background-image: url('https://p5.img.cctvpic.com/photoAlbum/photo/2024/02/03/PHOT4i6uHRsAaovGRRzTcPtI240203_1000x2000.jpg?var=0');
-	background-size: cover;
+	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	backdrop-filter: blur(5px);
