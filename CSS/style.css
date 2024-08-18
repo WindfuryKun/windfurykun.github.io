@@ -3,5 +3,5 @@ body {
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	backdrop-filter: blur(5px);
+	backdrop-filter: blur(10px);
 }
