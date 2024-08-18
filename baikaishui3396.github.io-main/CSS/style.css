@@ -1,0 +1,7 @@
+body {
+	background-image: url(../imgs/壁纸1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	backdrop-filter: blur(5px);
+}
